@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+scikit-learn
+nltk
+requests
+Download Pickle Files  
+[Download similarity.pkl &  Movie_dict.pkl & Credits.csv ](https://drive.google.com/drive/folders/14O2jf9263OjrXUDFuTY0XaiyzKvyoNpe?usp=drive_link)
+
